@@ -9,3 +9,11 @@ For this project you must create a data set by simulating a real-world phenomeno
 * Synthesise/simulate a data set as closely matching their properties as possible.
 * Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook.
 * Note that this project is about simulation – you must synthesise a data set. Some students may already have some real-world data sets in their own files. It is okay to base your synthesised data set on these should you wish (please reference it if you do), but the main task in this project is to create a synthesised data set.
+
+# Notebook
+the notebook for this project if called [PfDA_Assignment.ipynb](http://localhost:8888/notebooks/PfDA_Assignment.ipynb)
+
+
+# Resouces
+the packages needed to run the code in the Jupyter notebook are all listed at the top of the notebook
+References are listed throughout the notebook at the relevant points and grouped together at the bottom of the notebook
