@@ -17,3 +17,6 @@ the notebook for this project if called [PfDA_Assignment.ipynb](http://localhost
 # Resouces
 the packages needed to run the code in the Jupyter notebook are all listed at the top of the notebook
 References are listed throughout the notebook at the relevant points and grouped together at the bottom of the notebook
+
+# Conclusions
+In the dataframe I created in this notebook, I know there is a lot more refining that needs to be done. Even though each of the individual columns contain weighted data that reflects the characteristics of the individuals that attend a pharmacy, I have not been able in the time I have spent on this assignment to capture the inter-relatedness of the variables in my final database. For example, there is a fair chance that there will be a 1-10 year old that is listed as a smoker. Or, the older age groups have a higher probability of collecting several items per month, however with the method I have used to join the individual data frames that is not reflected 
